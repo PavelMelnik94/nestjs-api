@@ -21,5 +21,6 @@ export class PageModel {
 		description: string;
 	}[];
 	seoText: string;
+	tagsTitle: string;
 	tags: string[];
 }
